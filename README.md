@@ -59,14 +59,6 @@ while True:
 
 ---
 
-## 📊 GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinyMaLi&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinyMaLi&layout=compact&theme=tokyonight&hide_border=true" height="160" />
-</p>
-
----
 
 ## 📬 Find me
 
